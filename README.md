@@ -1,11 +1,16 @@
 ## Hi there 👋
 
-🔭 Currently working on web development projects, expanding my frontend skills
-💼 Business Analyst by day, bringing analytical thinking to technical solutions
-🖥️ Desktop application developer with a passion for creating efficient user experiences
-🤖 Automation enthusiast - I love building tools that make work easier
-🌱 Always learning, currently diving deeper into frontend technologies
-👯 Looking to collaborate on IT projects where business insight meets technical innovation
+🔭 Currently working on web development projects, expanding my frontend skills.
+
+💼 Business Analyst by day, bringing analytical thinking to technical solutions.
+
+🖥️ Desktop application developer with a passion for creating efficient user experiences.
+
+🤖 Automation enthusiast - I love building tools that make work easier.
+
+🌱 Always learning, currently diving deeper into frontend technologies.
+
+👯 Looking to collaborate on IT projects where business insight meets technical innovation.
   
 📫 How to reach me: isharadissanayaka555@gmail.com
 

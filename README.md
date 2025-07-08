@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on web development
+🔭 Currently working on web development projects, expanding my frontend skills
+💼 Business Analyst by day, bringing analytical thinking to technical solutions
+🖥️ Desktop application developer with a passion for creating efficient user experiences
+🤖 Automation enthusiast - I love building tools that make work easier
+🌱 Always learning, currently diving deeper into frontend technologies
+👯 Looking to collaborate on IT projects where business insight meets technical innovation
   
-- 🌱 I’m interested in frontend development
-  
-- 👯 I’m looking to collaborate in the IT sector
-  
-- 📫 How to reach me: isharadissanayaka555@gmail.com
+📫 How to reach me: isharadissanayaka555@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
